@@ -1,13 +1,13 @@
 type: item
 name: Ice shard
 description: It's just frozen water.
-"cost": 1,
-"color": "abbfe0",
-"flammability": 0,
-"explosiveness": 0,
-"radioactivity": 0,
+cost: 1,
+color: abbfe0,
+flammability: 0,
+explosiveness: 0,
+radioactivity: 0,
 research: yttrium
 hiddenOnPlanets: [
-  "serpulo",
-  "erekir"
+  serpulo,
+  erekir
 ]
